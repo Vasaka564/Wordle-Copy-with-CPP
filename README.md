@@ -61,7 +61,7 @@ This project is a Windows console application. Use **Visual Studio** or **Visual
 ## 🗂 Project Structure
 
 ```
-Wordle.h			 # Contains all game classes, function names and logic
+Wordle.h                 # Contains all game classes, function names and logic
 Wordle.cpp               # Contains all game logic
 Main.cpp                 # Runs the game 
 valid-wordle-words.txt   # List of valid 5-letter words
